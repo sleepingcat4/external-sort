@@ -1,0 +1,1 @@
+external sorting is a method that allows for reading and sorting terabytes and gigabytes worth of data while keeping mem fingerprint to the minimum. in the coming moments, will be featuring large dataset reading examples.
